@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @leticiayanaguya
+- 👋 Hi, I’m @leticiayanaguya! Nice to have you here!
 - 👀 I’m interested in programming in general, from classic algorithms, analysis and performance improvement.
-- 🌱 I’m currently learning Machine Learning, Elixir/Python more deeply and design and microservice patterns.
+- 🌱 I’m currently learning Machine Learning, languages like Elixir, Python and Ruby more deeply and also design and microservice patterns.
 - 💞️ I’m looking to collaborate on any project that brings something of value to the community as a whole.
+- 📚 I also love books, studying History, Physics and cooking and eventually I dare to draw a little bit.
 - 📫 How to reach me: you can send me a message on [LinkedIn](https://www.linkedin.com/in/leticiayanaguya/). I'll probably answer in one or two days.
